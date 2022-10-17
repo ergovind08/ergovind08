@@ -62,13 +62,13 @@
 <br>
 
 # 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+![](https://komarev.com/ghpvc/?username=ergovind08&color=447ff7&label=Visitor+count)
 
 <p align="center">
   <a href="https://github.com/ergovind08">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdityaKumar28&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=AdityaKumar28&theme=react-dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ergovind08&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ergovind08&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=ergovind08&theme=react-dark" />
 </a>
 </p>
 
