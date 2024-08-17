@@ -14,6 +14,26 @@
 
 # 🔥 Skills 🔥
 
+### 🔹Frontend Languages & Frameworks:
+
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="48" width="48" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="48" width="48" alt="Next.js" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  </a>
+</p>
+
 ### 🔹Backend Languages:
 
 <p align="center">
@@ -63,7 +83,7 @@
 
 <p align="center">
   <a href="https://kafka.apache.org" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstawarczyk.pl%2Fwp-content%2Fuploads%2F2020%2F06%2Fkafka.png&f=1&nofb=1" height=65 width=50 alt="Kafka"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" height=48 width=48 alt="Kafka"/>
   </a>
   <a href="https://cloud.google.com/pubsub/docs/overview" target="_blank">
     <img src="https://iconape.com/wp-content/png_logo_vector/google-cloud-pub-sub-logo.png" height=60 width=60 alt="Google Cloud Pub/Sub"/>
@@ -110,16 +130,4 @@
 # 🛠️ Projects 🛠️
 
 ## Project 1: [Project Name](https://github.com/ergovind08/project1)
-**Description:** Brief description of what the project does, technologies used, and any notable features.
-
-## Project 2: [Project Name](https://github.com/ergovind08/project2)
-**Description:** Brief description of what the project does, technologies used, and any notable features.
-
-## Project 3: [Project Name](https://github.com/ergovind08/project3)
-**Description:** Brief description of what the project does, technologies used, and any notable features.
-
-<!-- Add more projects as needed -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</p>
+**Description:** Brief description of what the project does, technologies used, and
